@@ -1,4 +1,4 @@
-SSISAPI_Implementation
+Sharp-SSIS 
 ======================
 
-Implementation of SSIS API
+Implementation of SSIS API Using C#
